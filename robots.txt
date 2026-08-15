@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://handbook-pr5lh3.nuansa138win.cfd/sitemap.xml
